@@ -1,2 +1,2 @@
 # JuegoSimple
-Aplicación sencilla para jugar hecho con JavaScript.
+_Aplicación sencilla para jugar hecho con JavaScript._
